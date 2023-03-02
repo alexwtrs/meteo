@@ -1,0 +1,49 @@
+[
+
+    {
+        "city": "Miami",
+        "records": [
+            {
+                "day": "Lundi",
+                "img": "img/soleil.png",
+                "temperature": "26"
+            },
+
+            {
+                "day": "Mardi",
+                "img": "img/soleil.png",
+                "temperature": "24"
+            },
+
+            {
+                "day": "Mercredi",
+                "img": "img/soleil.png",
+                "temperature": "25"
+            },
+
+            {
+                "day": "Jeudi",
+                "img": "img/soleil.png",
+                "temperature": "27"
+            },
+
+            {
+                "day": "Vendredi",
+                "img": "img/soleil.png",
+                "temperature": "30"
+            },
+
+            {
+                "day": "Samedi",
+                "img": "img/soleil.png",
+                "temperature": "29"
+            },
+
+            {
+                "day": "Dimanche",
+                "img": "img/soleil.png",
+                "temperature": "29"
+            }
+        ]
+    }
+]

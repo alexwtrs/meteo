@@ -1,0 +1,48 @@
+[
+    {
+        "city": "Paris",
+        "records": [
+            {
+                "day": "Lundi",
+                "img": "img/soleil.png",
+                "temperature": "8"
+            },
+
+            {
+                "day": "Mardi",
+                "img": "img/soleil.png",
+                "temperature": "8"
+            },
+
+            {
+                "day": "Mercredi",
+                "img": "img/pluie.png",
+                "temperature": "9"
+            },
+
+            {
+                "day": "Jeudi",
+                "img": "img/pluie.png",
+                "temperature": "7"
+            },
+
+            {
+                "day": "Vendredi",
+                "img": "img/soleil.png",
+                "temperature": "6"
+            },
+
+            {
+                "day": "Samedi",
+                "img": "img/pluie.png",
+                "temperature": "10"
+            },
+
+            {
+                "day": "Dimanche",
+                "img": "img/soleil.png",
+                "temperature": "12"
+            }
+        ]
+    }
+]

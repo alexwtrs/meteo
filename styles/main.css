@@ -1,0 +1,75 @@
+body {
+    background-color: #0080ff;
+    color: #FFF;
+}
+h1 {
+    justify-content: center;
+    display: flex;
+    margin-top:3%;
+}
+
+footer {
+    justify-content: center;
+    display: flex;
+    bottom: 10%;
+}
+
+.card {
+    background-color: #40a0ff;
+    border: solid 0px;
+    color: #FFF;
+    display: flex;
+    margin-top:3%;
+}
+
+td {
+    color: #FFF;
+}
+
+th {
+    color: #FFF;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 5%;
+    margin-top:3%;
+}
+
+.center2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    margin-top:3%;
+}
+
+.center3 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 5%;
+    margin-top:3%;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    margin-top:3%;
+}
+
+.card-header {
+    background-color: #40a0ff;
+}
+
+.nav-link {
+    color: #FFF;
+}
+
+.nav-link:hover {
+    color: #FFF;
+}

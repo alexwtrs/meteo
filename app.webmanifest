@@ -1,0 +1,15 @@
+{
+    "name": "Météo",
+
+    "icons": [
+        {
+            "src": "img/logo.png",
+            "type": "image/png",
+            "sizes": "160x160"
+        }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#0080ff",
+    "background_color": "#0080ff"
+ }
