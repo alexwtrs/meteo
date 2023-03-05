@@ -1,5 +1,6 @@
 {
     "name": "Météo",
+    "description": "Application pour connaître la météo du monde",
 
     "icons": [
         {
@@ -8,8 +9,9 @@
             "sizes": "160x160"
         }
     ],
-    "start_url": "/",
+    "start_url": "/meteo/",
     "display": "standalone",
     "theme_color": "#0080ff",
-    "background_color": "#0080ff"
+    "background_color": "#0080ff",
+    "scope": "/meteo"
  }

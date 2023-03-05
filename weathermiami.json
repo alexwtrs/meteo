@@ -6,43 +6,43 @@
             {
                 "day": "Lundi",
                 "img": "img/soleil.png",
-                "temperature": "26"
+                "temperature": "31"
             },
 
             {
                 "day": "Mardi",
                 "img": "img/soleil.png",
-                "temperature": "24"
+                "temperature": "31"
             },
 
             {
                 "day": "Mercredi",
                 "img": "img/soleil.png",
-                "temperature": "25"
+                "temperature": "30"
             },
 
             {
                 "day": "Jeudi",
                 "img": "img/soleil.png",
-                "temperature": "27"
-            },
-
-            {
-                "day": "Vendredi",
-                "img": "img/soleil.png",
                 "temperature": "30"
             },
 
             {
+                "day": "Vendredi",
+                "img": "img/soleil-nuage.png",
+                "temperature": "26"
+            },
+
+            {
                 "day": "Samedi",
-                "img": "img/soleil.png",
-                "temperature": "29"
+                "img": "img/soleil-nuage.png",
+                "temperature": "26"
             },
 
             {
                 "day": "Dimanche",
                 "img": "img/soleil.png",
-                "temperature": "29"
+                "temperature": "27"
             }
         ]
     }

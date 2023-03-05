@@ -1,13 +1,14 @@
 const CACHE_NAME = 'my-site-cache-v1';
 const urlsToCache = [
     '/',
-    'miami.html',
     '/styles/main.css',
     '/img/logo.png',
     '/img/pluie.png',
+    '/img/soleil-nuage.png',
     '/img/soleil.png',
-    '/weatherparis.json',
-    '/weathermiami.json'
+    'script.js',
+    'weatherparis.json',
+    'weathermiami.json'
 ];
 
 self.addEventListener('install', function(event) {
@@ -34,4 +35,3 @@ self.addEventListener('fetch', function(event) {
         })
     );
   });
-  
